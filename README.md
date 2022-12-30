@@ -2,7 +2,9 @@
 
 
 This Mod adds some new Plants for vegan cooking in Minetest.
-It supports farming and farming_redo from TenPlus.
+It supports farming and farming_redo from TenPlus. If installed alongside farming_redo, the following must be set in minetest.conf for plants to sprout
+
+`cucina_vegana.plant_settings.germ_launch = 1`
 
 ## Soy
 ![Screenshot 1](textures/cucina_vegana_soy_screenshot.jpg)
